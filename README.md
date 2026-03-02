@@ -15,7 +15,7 @@
 
 ## 截图展示
 ### 前端APP界面
-![前端APP界面](https://via.placeholder.com/800x600?text=Frontend+App+Interface)
+![前端APP界面]](https://github.com/jf8gbq4hqs-hue/Yiding-AI/blob/main/Screenshot_20260302-185431.png)
 
 ### 后端管理界面
 ![后端管理界面](https://via.placeholder.com/800x600?text=Backend+Admin+Interface)
